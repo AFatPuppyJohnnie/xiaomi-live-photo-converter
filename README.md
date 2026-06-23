@@ -1,5 +1,7 @@
 # Xiaomi Motion Photo to Apple Live Photo Converter
 
+[English](README.md) | [简体中文](README_zh-CN.md) 
+
 Convert Xiaomi/HyperOS Motion Photo JPEG files into Apple Photos-compatible Live Photo pairs.
 
 This project was built from a real Xiaomi photo export workflow. Recent Xiaomi and HyperOS devices can store a still image and its short motion clip inside one `.jpg` file, using Google Motion Photo metadata. Apple Photos expects a paired still image and video with matching Apple metadata. This tool extracts the embedded video, creates a clean still image, and writes the identifiers Apple Photos needs to import the pair as one Live Photo.
