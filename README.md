@@ -1,6 +1,6 @@
 # Xiaomi Motion Photo to Apple Live Photo Converter
 
-[English](README.md) | [简体中文](README_zh-CN.md) 
+[English](README.md) | [简体中文](README.zh-CN.md) 
 
 Convert Xiaomi/HyperOS Motion Photo JPEG files into Apple Photos-compatible Live Photo pairs.
 
