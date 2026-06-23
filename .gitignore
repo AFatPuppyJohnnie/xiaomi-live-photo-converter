@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local photo inputs and conversion outputs. Do not commit personal media.
+samples/
+source_inspection/
+output*/
+converted*/
+archive*/
+dry_run_results.json
+
+# Optional local scratch folders.
+tmp/
+scratch/
